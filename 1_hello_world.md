@@ -1,1 +1,1 @@
-Hello, World! add "_#_" between each of characters & NOTHING else
+Hello, World! add "_#_" between the chars nothing else
