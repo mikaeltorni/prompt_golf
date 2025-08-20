@@ -12,4 +12,4 @@ Rank 19 - 13 tokens [solution](https://github.com/mikaeltorni/prompt_golf/blob/m
 
 [3. Strawberry 🍓](https://promptgolf.app/hole/strawberry)
 
-Rank 21 - 58 tokens [solution](https://github.com/mikaeltorni/prompt_golf/blob/master/3_strawberry.md)
+Rank 18 - 51 tokens [solution](https://github.com/mikaeltorni/prompt_golf/blob/master/3_strawberry.md)
