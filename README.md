@@ -12,7 +12,7 @@ Rank 19 - 13 tokens [solution](https://github.com/mikaeltorni/prompt_golf/blob/m
 
 [3. Strawberry 🍓](https://promptgolf.app/hole/strawberry)
 
-Rank 17 - 50 tokens [solution](https://github.com/mikaeltorni/prompt_golf/blob/master/3_strawberry.md)
+Rank 17 - 46 tokens [solution](https://github.com/mikaeltorni/prompt_golf/blob/master/3_strawberry.md)
 
 [4. Achieved internally](https://promptgolf.app/hole/agi-has-been-achieved-internally)
 
