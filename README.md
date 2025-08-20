@@ -17,3 +17,7 @@ Rank 17 - 50 tokens [solution](https://github.com/mikaeltorni/prompt_golf/blob/m
 [4. Achieved internally](https://promptgolf.app/hole/agi-has-been-achieved-internally)
 
 Rank 17 - 48 tokens [solution](https://github.com/mikaeltorni/prompt_golf/blob/master/4_achieved_internally.md)
+
+[5. Code golf 2.0](https://promptgolf.app/hole/prompt-golf-vs-code-golf)
+
+Rank 26 - 66 tokens [solution](https://github.com/mikaeltorni/prompt_golf/blob/master/5_code_golf_2.0.md)
