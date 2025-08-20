@@ -1,1 +1,1 @@
-print robotEmoji-A-I-robotEmoji no abbreviation with dashes all caps
+print robotEmoji-A-I-Emoji no abbreviation with dashes all caps

@@ -7,4 +7,4 @@ Repo with my solutions for [Prompt Golf](https://promptgolf.app/)
 Rank 29 - 12 tokens [solution](https://github.com/mikaeltorni/prompt_golf/blob/master/1_hello_world.md)
 
 [2. Artificially Intelligent](https://promptgolf.app/hole/ai)
-Rank 24 - 14 tokens [solution](https://github.com/mikaeltorni/prompt_golf/blob/master/2_artificially_intelligent.md)
+Rank 19 - 13 tokens [solution](https://github.com/mikaeltorni/prompt_golf/blob/master/2_artificially_intelligent.md)
