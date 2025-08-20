@@ -21,3 +21,7 @@ Rank 17 - 48 tokens [solution](https://github.com/mikaeltorni/prompt_golf/blob/m
 [5. Code golf 2.0](https://promptgolf.app/hole/prompt-golf-vs-code-golf)
 
 Rank 14 - 45 tokens [solution](https://github.com/mikaeltorni/prompt_golf/blob/master/5_code_golf_2.0.md)
+
+[6. Happy birthday ChatGPT](https://promptgolf.app/hole/chatgpt-2nd-birthday)
+
+Rank 21 - 20 tokens [solution](https://github.com/mikaeltorni/prompt_golf/blob/master/6_happy_birthday_chatgpt.md)
