@@ -20,4 +20,4 @@ Rank 17 - 48 tokens [solution](https://github.com/mikaeltorni/prompt_golf/blob/m
 
 [5. Code golf 2.0](https://promptgolf.app/hole/prompt-golf-vs-code-golf)
 
-Rank 26 - 66 tokens [solution](https://github.com/mikaeltorni/prompt_golf/blob/master/5_code_golf_2.0.md)
+Rank 14 - 45 tokens [solution](https://github.com/mikaeltorni/prompt_golf/blob/master/5_code_golf_2.0.md)
